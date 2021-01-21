@@ -1,7 +1,7 @@
 ### Hola , I'm Sparsh Mehta 👋
 
-<!--- 🔭 I’m currently working on Myself --->
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on Myself 
+- 🌱 Data Science Enthusiast
 <!--- 💬 Ask me about ... --->
 - 📫 How to reach me:   [LinkedIn - @sparsh29](https://www.linkedin.com/in/sparsh29/)
 <!--- 😄 Pronouns: ...
