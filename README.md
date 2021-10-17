@@ -1,6 +1,8 @@
 ### Hola , I'm Sparsh Mehta 👋
 
 - 🔭 I’m currently working on Myself 
+- Mobile Developments -> React Native , Flutter
+-  MERN Stack Developer
 - 🌱 Data Science Enthusiast
 <!--- 💬 Ask me about ... --->
 - 📫 How to reach me:   [LinkedIn - @sparsh29](https://www.linkedin.com/in/sparsh29/)
