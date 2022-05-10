@@ -1,8 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Sparsh Mehta</h1>
-<h3 align="center">A passionate Blockchain developer & Data Science Enthusiast from India</h3>
-
-<p align="left"> <a href="https://twitter.com/sparsh_mehta_" target="blank"><img src="https://img.shields.io/twitter/follow/sparsh_mehta_?logo=twitter&style=for-the-badge" alt="sparsh_mehta_" /></a> </p>
+<h3 align="center">A passionate Blockchain developer from India</h3>
 
 - 🌱 I’m currently learning **Web3**
 
@@ -22,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sparsh09&show_icons=true&locale=en" alt="sparsh09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh09&" alt="sparsh09" /></p>
-
